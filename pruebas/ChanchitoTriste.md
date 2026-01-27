@@ -1,7 +1,0 @@
-|codigos|para qué|
-|cd y cd..| Recorre las carpetas y sale de las carpetas|
-|dir| ver las carpetas |
-|git|todos los comandos| 
-|git init| inicializa los |
-|git add| agrega los cambis|
-|git status|estados de los archivos|
