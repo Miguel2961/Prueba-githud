@@ -3,6 +3,7 @@
 |dir| ver las carpetas |
 |git|todos los comandos| 
 |git init| inicializa los |
-|git add| agrega los cambis|
+|git add| agrega los cambios|
 |git status|estados de los archivos|
 |git status -s| estadod corto |
+|git diff| ver cambios en la capetas |
