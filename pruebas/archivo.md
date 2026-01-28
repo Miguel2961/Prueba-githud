@@ -5,3 +5,4 @@
 |git init| inicializa los |
 |git add| agrega los cambis|
 |git status|estados de los archivos|
+|git status -s| estadod corto |
