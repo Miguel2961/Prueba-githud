@@ -8,5 +8,6 @@
 | git status -s | estadod corto |
 | git diff | ver cambios en la capetas |
 | branch | Crea la rama o puede ver las ramas |
-| git swich -c| Crea la rama y se meuve ne ella (moderna) |
+| git switch -c| Crea la rama y se meuve ne ella (moderna) |
 | git checkout -b | Crea la rama y se meuve ne ella (antigua) |
+| git log o log --oneline | ver los commit |
