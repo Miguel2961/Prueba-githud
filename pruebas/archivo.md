@@ -1,4 +1,5 @@
 | codigos |para qué|
+| git config --global | acede a las variables globales como user.name y user.email |
 | cd y cd.. | Recorre las carpetas y sale de las carpetas|
 | dir | ver las carpetas |
 | git |todos los comandos| 
