@@ -13,3 +13,5 @@
 | git checkout -b | Crea la rama y se meuve ne ella (antigua) |
 | git log o log --oneline | ver los commit |
 | git stast | utltimo commit que se hizo |
+
+soy la rama A
